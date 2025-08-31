@@ -1,0 +1,2 @@
+Mediway –>
+Mediway is a self-inspired project, created by observing the patterns of stress and lifestyle around us. It is a simple meditation-focused web application built mainly with HTML (for practice and learning purposes). The platform is designed to help users relax and engage in meditation exercises. Its primary goal is to encourage mindfulness and well-being in a straightforward and accessible way.
